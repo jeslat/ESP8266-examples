@@ -1,5 +1,4 @@
-#include <WiFiClient.h>
-#include <ESP8266mDNS.h>
+#include <ESP8266WiFi.h>
 
 //TODO: Add the name and the password of the WiFi
 char ssid[] = "";
